@@ -17,6 +17,7 @@ the application can be run in the following ways
 2. In the project folder run the following command in command prompt
 `mvn spring-boot:run`
 
+The Application runs on **localhost:8080**
 Spring boot Runs on an Embedded container in local so does not need to the war file to be deployed anywhere in local
 
 ## Project structure
